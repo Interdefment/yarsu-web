@@ -7,7 +7,9 @@ THIS IS REPO !!! <br />
 ![Добавление и индексация нового файла (1)](screenshots/add_new_file.png?raw=true)
 ![Добавление и индексация нового файла (2)](screenshots/add_new_file_1.png?raw=true)
 
-Добавлен .gitignore <br />
-![Добавление и индексация нового файла (2)](screenshots/add_new_file_1.png?raw=true)
+Добавлен .gitignore (пришлось изменить кодировку) <br />
+![Добавлен .gitignore (1)](screenshots/added_gitignore.png?raw=true)
+![Добавлен .gitignore (2)](screenshots/added_gitignore_2.png?raw=true)
 
-Добавление и индексация нового файла <br />
+Использование git diff <br />
+![Использование git diff](screenshots/use_git_diff.png?raw=true)
