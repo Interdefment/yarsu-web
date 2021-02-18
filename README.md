@@ -16,3 +16,7 @@ THIS IS REPO !!! <br />
 
 Флаг -a не работает <br />
 ![Флаг -a не работает](screenshots/-a_flag.png?raw=true)
+
+Удаление и переименование файла <br />
+![Удаление файла](screenshots/git_rm_1.png?raw=true)
+![Переименование файла](screenshots/git_mv.png?raw=true)
