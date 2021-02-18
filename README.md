@@ -13,3 +13,6 @@ THIS IS REPO !!! <br />
 
 Использование git diff <br />
 ![Использование git diff](screenshots/use_git_diff.png?raw=true)
+
+Флаг -a не работает <br />
+![Флаг -a не работает](screenshots/-a_flag.png?raw=true)
